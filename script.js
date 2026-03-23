@@ -1,1 +1,6 @@
-console.log("Hello, World!");
+a=1
+if (a === 1) {
+    console.log("Hello, World!");
+}else{
+    console.log("Goodbye, World!");
+}
